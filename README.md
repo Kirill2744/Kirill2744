@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+На данный момент имееться не законченое высшее образование.
+
+Изучаю такие языки програмирования как Python и PHP.
 <!--
 **Kirill2744/Kirill2744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
